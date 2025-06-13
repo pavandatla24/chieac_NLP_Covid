@@ -1,0 +1,3 @@
+cd chieac_NLP_Covid
+.\venv\Scripts\activate
+pip install ipykernel
